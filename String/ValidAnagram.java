@@ -30,7 +30,7 @@ class ValidAnagram
 	public static void main(String args[])
 	{
 		String s = "anagram";
-		String t = "nagram";
+		String t = "nagaram";
 		System.out.print(isAnagram(s,t));
 	}
 }
