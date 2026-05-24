@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.lang.*;
 import java.util.*;
 class FindAllAnagrams
@@ -48,4 +49,5 @@ class FindAllAnagrams
 		
 		System.out.println(findAnagram(s,p));
 	}
+		
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.lang.*;
 import java.util.*;
 class MaximumAvgSubarray
@@ -33,4 +34,7 @@ class MaximumAvgSubarray
 		 System.out.print(findMaxAverage(nums, k));
     }
 }
+
+}
+
 

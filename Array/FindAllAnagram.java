@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.lang.*;
 import java.util.*;
 class FindAllAnagram
